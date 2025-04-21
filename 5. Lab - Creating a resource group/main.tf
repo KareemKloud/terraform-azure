@@ -14,10 +14,10 @@ terraform {
 # our Azure account
 
 provider "azurerm" {
-  subscription_id = "6912d7a0-bc28-459a-9407-33bbba641c07"
+  subscription_id = "623e7665-4a42-4979-afd5-e1c3cd3cb1b3"
   client_id       = "230411ec-45e9-4650-95b2-7675131e2d1a"
-  client_secret   = "8D~7Q~y39tBTXsFXGcuVIwvGCOorRUo6dXtwX"
-  tenant_id       = "70c0f6d9-7f3b-4425-a6b6-09b47643ec58"
+  client_secret   = "46b9bf20-2d1a-4df1-95b2-c0ad888c05f3"
+  tenant_id       = "0301e687-9994-4e49-a2f2-b3c307fe186c"
   features {}
 }
 
